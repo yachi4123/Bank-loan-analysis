@@ -4,6 +4,11 @@ The objective of this project is to evaluate and monitor the bank’s lending ac
 
 ---
 
+## View the Dashboard  
+[View Tableau Dashboard](https://public.tableau.com/views/bank_project_17613722854800/Details?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+*(Replace “#” with your Tableau Public link once published.)*  
+---
+
 ## Key Performance Indicators (KPIs)
 
 ### Loan Portfolio Metrics
